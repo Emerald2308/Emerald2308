@@ -27,3 +27,6 @@ Join me as I navigate this dynamic landscape, share my progress, and delve into 
 ## Get in touch :coffee:
 
 - [LinkedIn](www.linkedin.com/in/swati-sahu-25b28918b)
+- swatisahu99@hotmail.com
+
+
