@@ -1,32 +1,33 @@
-<!--
-**Emerald2308/Emerald2308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <img src="https://github.com/Emerald2308/Emerald2308/blob/main/Banner_Image.png" alt="Hello world">
 
-## About me
+## 👋 About Me
 
-Hi there! I'm Swati, and I'm on an exciting journey to master DevOps. I’m looking forward to constantly update my Cloud and DevOps projects, ensuring I learn something new every day. Along the way, I’m documenting my experiences through blogs to share insights and lessons learned.
+Hi there! I'm **Swati**, a curious engineer on an exciting journey to master **DevOps**, **Site Reliability**, and all things infrastructure.
 
-I'm particularly interested in exploring how DevOps practices can be applied in emerging fields like AI, ML, and Web3. By integrating these technologies, I aim to innovate and streamline processes, creating more efficient workflows and robust applications.
+🌱 I’m continuously expanding my expertise in:
+- Cloud-native tools (Docker, Kubernetes, Terraform)
+- Monitoring and Observability
+- CI/CD pipelines
+- Automation & Scripting
+- And exploring the intersections of **DevOps + AI**, **ML**, and **Web3**
 
-Join me as I navigate this dynamic landscape, share my progress, and delve into the intersection of DevOps with cutting-edge technologies!
+🛠️ I'm currently building a full-stack **DevOps-powered portfolio site**, and I write blogs to share real-world lessons, gotchas, and exciting findings from the trenches.
 
+---
 
-## Get in touch :coffee:
+## ✍️ Latest Blog Posts
+> Stay tuned! You can check out my blog section [here](https://your-portfolio-link.com/blog) (Replace with your actual link)
 
-- [LinkedIn](www.linkedin.com/in/swati-sahu-25b28918b)
-- swatisahu99@hotmail.com
+---
 
+## ☕ Let’s Connect!
+
+I'm always excited to collaborate, learn from others, or just chat tech and life.
+
+- 📬 **Email**: swatisahu99@hotmail.com  
+- 💼 **LinkedIn**: [Swati Sahu](https://www.linkedin.com/in/swati-sahu-25b28918b)
+
+---
+
+> _"Keep shipping. Keep learning. Keep growing."_ 💚
 
