@@ -22,7 +22,7 @@ I’m passionate about building reliable systems, reducing toil with automation,
 
 ### 💌 Let's Connect
 
-I'm always up for sharing ideas, discussing systems design, or just geeking out over home décor and dev memes.
+I'm always up for sharing ideas, discussing systems design, or just geeking out over home décor, gardening and dev memes.
 
 -  **Email**: [swatisahu99@hotmail.com](mailto:swatisahu99@hotmail.com)  
 -  **LinkedIn**: [Swati Sahu](https://www.linkedin.com/in/swati-sahu-25b28918b)
