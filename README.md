@@ -1,4 +1,8 @@
-<img src="https://github.com/Emerald2308/Emerald2308/blob/main/Banner_Image.png" alt="Hello world">
+<h1 align="center">Hi, I’m Swati </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5F6D5C&center=true&vCenter=true&width=435&lines=Site+Reliability+Engineer;Production+Support+Engineer;DevOps+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
 ## 👋 About Me
 
