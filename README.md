@@ -10,14 +10,7 @@ Hi there! I'm **Swati**, a curious engineer on an exciting journey to master **D
 - CI/CD pipelines
 - Automation & Scripting
 - And exploring the intersections of **DevOps + AI**, **ML**, and **Web3**
-
-🛠️ I'm currently building a full-stack **DevOps-powered portfolio site**, and I write blogs to share real-world lessons, gotchas, and exciting findings from the trenches.
-
----
-
-## ✍️ Latest Blog Posts
-> Stay tuned! You can check out my blog section [here](https://your-portfolio-link.com/blog) (Replace with your actual link)
-
+  
 ---
 
 ## ☕ Let’s Connect!
